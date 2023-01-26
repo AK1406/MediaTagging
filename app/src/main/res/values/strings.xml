@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediaTagging</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="dashboard">Home</string>
+    <string name="sort_heading">Sort projects</string>
+    <string name="preference_expection">asdf</string>
+</resources>
